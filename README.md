@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathri.guduru1020@gmail.com)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/gguduru1020)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+NGS+pipelines;Turning+raw+reads+into+real+insights;Nextflow+%7C+Python+%7C+R+%7C+Bash;4%2B+years+in+genomics+%26+metagenomics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+NGS+pipelines;Turning+raw+reads+into+real+insights;Nextflow+%7C+Python+%7C+R+%7C+Bash+%7C+ML;4%2B+years+in+genomics+%26+metagenomics" alt="Typing SVG" />
 
 </div>
 
@@ -18,8 +18,26 @@
 
 Bioinformatics Scientist with **4 years** of industry experience spanning genomic, transcriptomic, and metagenomic data analysis. I build **production-grade, scalable NGS pipelines** that take raw sequencing data from FASTQ to actionable biological insight — containerized, version-controlled, and cloud-ready.
 
-Currently at **Zymo Research Corporation**, where I architect metagenomic workflows for pathogen detection, AMR prediction, and wastewater surveillance across 300,000+ reference organisms.
+Currently at **Zymo Research Corporation**, where I architect metagenomic workflows for pathogen detection, AMR prediction, and wastewater surveillance.
 
+---
+
+### 🔬 What I Build
+
+> 📊 **Metagenomics**
+> End-to-end pipeline: QC → Assembly → MAG Binning → GTDB-Tk Taxonomy → AMR Prediction · 300K+ reference organisms
+
+> 🧪 **Sequence Typing**
+> Custom pipelines for 6 pathogens · validated detection thresholds on isolates & spiked wastewater samples
+
+> 🦠 **ViralSeq**
+> Hybridization-capture validation across 22 virus families · strain discrimination & coverage analysis
+
+> 🌊 **Wastewater Surveillance**
+> Pathogen detection pipeline for bacteria, viruses, fungi, protozoa & archaea at <0.1X coverage
+
+> 🧬 **RNA-Seq**
+> Reference-based & de novo assembly · differential expression · alternative splicing · ChIP-Seq
 
 ---
 
@@ -30,7 +48,7 @@ Currently at **Zymo Research Corporation**, where I architect metagenomic workfl
 | Domain | Tools |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white) |
-| **Pipelines** | ![Nextflow](https://img.shields.io/badge/Nextflow_DSL2-24B064?style=flat-square&logo=nextflow&logoColor=white) ![Snakemake](https://img.shields.io/badge/Snakemake-568259?style=flat-square&logoColor=white) 
+| **Pipelines** | ![Nextflow](https://img.shields.io/badge/Nextflow_DSL2-24B064?style=flat-square&logo=nextflow&logoColor=white) ![Snakemake](https://img.shields.io/badge/Snakemake-568259?style=flat-square&logoColor=white) ![nf--core](https://img.shields.io/badge/nf--core-24B064?style=flat-square&logoColor=white) |
 | **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Singularity](https://img.shields.io/badge/Singularity-1E5F8C?style=flat-square&logoColor=white) ![Apptainer](https://img.shields.io/badge/Apptainer-4B275F?style=flat-square&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
 | **ML/DL** | ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
