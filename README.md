@@ -55,6 +55,4 @@ I maintain containerized bioinformatics tools on [Docker Hub](https://hub.docker
 
 *"From raw reads to real-world impact — one pipeline at a time."*
 
-![Visitors](https://komarev.com/ghpvc/?username=Gayathri-Guduru&color=36BCF7&style=flat-square)
-
 </div>
