@@ -22,8 +22,6 @@ Currently at **Zymo Research Corporation**, where I architect metagenomic workfl
 
 ---
 
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
