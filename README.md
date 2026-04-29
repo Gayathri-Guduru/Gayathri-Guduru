@@ -30,12 +30,10 @@ Currently at **Zymo Research Corporation**, where I architect metagenomic workfl
 | Domain | Tools |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white) |
-| **Pipelines** | ![Nextflow](https://img.shields.io/badge/Nextflow_DSL2-24B064?style=flat-square&logo=nextflow&logoColor=white) ![Snakemake](https://img.shields.io/badge/Snakemake-568259?style=flat-square&logoColor=white) ![nf--core](https://img.shields.io/badge/nf--core-24B064?style=flat-square&logoColor=white) |
+| **Pipelines** | ![Nextflow](https://img.shields.io/badge/Nextflow_DSL2-24B064?style=flat-square&logo=nextflow&logoColor=white) ![Snakemake](https://img.shields.io/badge/Snakemake-568259?style=flat-square&logoColor=white) 
 | **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Singularity](https://img.shields.io/badge/Singularity-1E5F8C?style=flat-square&logoColor=white) ![Apptainer](https://img.shields.io/badge/Apptainer-4B275F?style=flat-square&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
 | **ML/DL** | ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Bioinformatics** | STAR · BWA · Bowtie2 · GATK · Samtools · DESeq2 · MACS2 · Prokka · Kaiju · QIIME2 |
-| **Databases** | NCBI · Ensembl · UCSC · SILVA · GenBank · BV-BRC |
 
 </div>
 
