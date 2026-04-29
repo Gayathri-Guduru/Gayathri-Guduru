@@ -22,23 +22,6 @@ Currently at **Zymo Research Corporation**, where I architect metagenomic workfl
 
 ---
 
-### 🔬 What I Build
-
-> 📊 **Metagenomics**
-> End-to-end pipeline: QC → Assembly → MAG Binning → GTDB-Tk Taxonomy → AMR Prediction · 300K+ reference organisms
-
-> 🧪 **Sequence Typing**
-> Custom pipelines for 6 pathogens · validated detection thresholds on isolates & spiked wastewater samples
-
-> 🦠 **ViralSeq**
-> Hybridization-capture validation across 22 virus families · strain discrimination & coverage analysis
-
-> 🌊 **Wastewater Surveillance**
-> Pathogen detection pipeline for bacteria, viruses, fungi, protozoa & archaea at <0.1X coverage
-
-> 🧬 **RNA-Seq**
-> Reference-based & de novo assembly · differential expression · alternative splicing · ChIP-Seq
-
 ---
 
 ### 🛠️ Tech Stack
