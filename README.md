@@ -54,22 +54,6 @@ Currently at **Zymo Research Corporation**, where I architect metagenomic workfl
 
 ---
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Guduru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Guduru&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-Guduru&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🎓 Education
 
 🎓 **M.S. Bioinformatics (STEM)** — Northeastern University *(2022–2023)*
