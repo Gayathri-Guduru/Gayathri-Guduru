@@ -43,13 +43,6 @@ Currently at **Zymo Research Corporation**, where I architect metagenomic workfl
 🎓 **M.S. Bioinformatics (STEM)** — Northeastern University *(2022–2023)*  
 🎓 **B.Tech Biotechnology** — CBIT *(2016–2020)*
 
----
-
-### 🐳 Docker Images
-
-I maintain containerized bioinformatics tools on [Docker Hub](https://hub.docker.com/repositories/gguduru1020).
-
----
 
 <div align="center">
 
